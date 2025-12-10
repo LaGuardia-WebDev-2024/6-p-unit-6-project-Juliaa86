@@ -11,7 +11,19 @@ void draw(){
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
-  
+  //head
+  fill(255,219,172,0)
+  ellipse(194,268,150,150)
+   //face
+  arc(193,310,50,20,radians(250), radians(360))
+  arc(196,223,150,10,radians(180), radians(360))
+  //body
+  fill(219, 33, 33)
+  ellipse(194,368,200,100) 
+  strokeWeight(5)
+  point(190,337)
+  point(190,359)
+  point(190,377)
 
   
 
