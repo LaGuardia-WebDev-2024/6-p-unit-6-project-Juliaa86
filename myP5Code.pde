@@ -24,9 +24,9 @@ void draw(){
   ellipse(194,268,150,150)
    //face
   arc(193,310,50,20,radians(250), radians(360))
-  strokeWeight(15);
-  fill(224, 210, 7)
-  arc(196,223,150,10,radians(180), radians(360))
+  fill (37, 200, 232)
+   ellipse(196,223,130,70)
+
  
 
 }
