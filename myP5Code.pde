@@ -25,7 +25,9 @@ void draw(){
    //face
   arc(193,310,50,20,radians(250), radians(360))
   fill (37, 200, 232)
-   ellipse(196,223,130,70)
+   ellipse(196,223,130,70) //Hat
+
+
 
  
 
